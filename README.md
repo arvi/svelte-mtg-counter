@@ -1,12 +1,12 @@
 # MTG Counter App
 Svelte + TS + Vite + Skeleton (Manual install with Tailwind CSS)
 
-##### Generate Svelte + TS
+#### Generate Svelte + TS
 ```
 npm init vite@latest
 ```
 
-##### Commands
+#### Commands
 ```
 npm run dev
 npm run build
